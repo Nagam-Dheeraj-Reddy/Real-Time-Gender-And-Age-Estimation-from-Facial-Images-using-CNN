@@ -1,0 +1,3 @@
+When you download this images folder you need to have GIT LFS installed in your local machine
+run below command
+git lfs install
